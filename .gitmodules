@@ -1,0 +1,6 @@
+[submodule "issue-12-CollectionViewAnimations"]
+	path = issue-12-CollectionViewAnimations
+	url = /Users/ChaoGu/Downloads/objc_io_codes/issue-12-CollectionViewAnimations
+[submodule "issue-12-CustomCollectionViewTransition"]
+	path = issue-12-CustomCollectionViewTransition
+	url = /Users/ChaoGu/Downloads/objc_io_codes/issue-12-CustomCollectionViewTransition
