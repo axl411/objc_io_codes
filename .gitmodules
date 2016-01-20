@@ -4,3 +4,9 @@
 [submodule "issue-12-CustomCollectionViewTransition"]
 	path = issue-12-CustomCollectionViewTransition
 	url = /Users/ChaoGu/Downloads/objc_io_codes/issue-12-CustomCollectionViewTransition
+[submodule "issue-12-interactive-animations-uidynamics"]
+	path = issue-12-interactive-animations-uidynamics
+	url = /Users/ChaoGu/Downloads/objc_io_codes/issue-12-interactive-animations-uidynamics
+[submodule "issue-12-interactive-animations"]
+	path = issue-12-interactive-animations
+	url = /Users/ChaoGu/Downloads/objc_io_codes/issue-12-interactive-animations
